@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+hr {
+    border:none;
+    border: 1px solid #d7d7d7;
+}
+
+p {
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.563rem;
+}
+
+.hr {
+    text-align: center;
+}
+
+.hr img {
+    position: relative;
+    top: -18px;
+    padding:0 5px;
+}
+
+.dayimg {
+  position: absolute;
+  right: 150px;
+  top: 40px;
+  width: 100px;
+  height: 100px;
+}
+
+.header1 {
+  font-size: 5.625rem;
+  color: white;
+  font-family: 'Festive' , cursive;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.header2 {
+  font-size: 3rem;
+  color: #42240C;
+  font-family: 'Akaya Telivigala', cursive;
+  margin: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.jenny {
+  font-size: 5rem;
+  color: white;
+  font-family: 'Festive' , cursive;
+  margin-top: 0;
+}
+
+.middleContainer {
+  background-color: #FBFFE2;
+  margin: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.topContainer{
+  background-image: url("http://clipart-library.com/images_k/valentines-day-transparent-background/valentines-day-transparent-background-25.png");
+  background-color: #FF9999;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 30px;
+  margin: 0;
+}
+
+.tiktok-embed {
+  background-color: none;
+}
+
+.rosehr {
+  width: 30px;
+  height: 30px;
+}
