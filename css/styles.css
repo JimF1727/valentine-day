@@ -15,6 +15,11 @@ p {
   font-size: 1.563rem;
 }
 
+.chocolate {
+  width: 60%;
+  height: auto;
+}
+
 .hr {
     text-align: center;
 }
@@ -65,8 +70,8 @@ p {
 }
 
 .topContainer{
-  background-image: url("http://clipart-library.com/images_k/valentines-day-transparent-background/valentines-day-transparent-background-25.png");
   background-color: #FF9999;
+  background-image: url("http://clipart-library.com/images_k/valentines-day-transparent-background/valentines-day-transparent-background-25.png");
   position: relative;
   padding-top: 100px;
   padding-bottom: 30px;
